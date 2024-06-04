@@ -8,7 +8,7 @@ from PIL import Image, ImageEnhance, ImageFilter
 
 # ↓↓↓ Ниже нужно вставить токен, который дал BotFather при регистрации
 # Пример: token = '2007628239:AAEF4ZVqLiRKG7j49EC4vaRwXjJ6DN6xng8'
-token = '6670955395:AAFARDJhA9UChl0snWse58vs5HflN3sJtUQ'  # <<< Ваш токен
+token = 'TOKEN'  # <<< Ваш токен
 
 bot = telebot.TeleBot(token)
 
