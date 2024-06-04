@@ -1,3 +1,4 @@
+# pip install pyTelegramBotAPI SpeechRecognition pydub pillow
 import os
 import telebot
 import speech_recognition
